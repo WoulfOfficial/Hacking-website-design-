@@ -1,8 +1,22 @@
-# Hacking-website-design-
-Youtube option wive this &amp; creat hacking website 
-Copy this codes & run anwriter
-
-<h1><font color="green">Woulf Official<h1>
-
-Get hacking website design 
-    <a href="https://github.com/WoulfOfficial/Hacking-website-design-/blob/2c33b0dd96109f32e7b5dd112262dd3f21ac3a15/html%20codes">Get page design codes</a>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Responsive Design Example</title>
+</head>
+<body>
+    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5721370068544014"
+     crossorigin="anonymous"></script>
+<!-- ad1 -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-5721370068544014"
+     data-ad-slot="4507803790"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</body>
+</html>
